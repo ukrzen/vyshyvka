@@ -1,0 +1,13 @@
+{
+  "name": "Текстова вишивка",
+  "short_name": "Вишивка",
+  "description": "Закодуйте будь-яке слово у вишивку — бродівське письмо.",
+  "lang": "uk",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#ffffff",
+  "icons": [{ "src": "/favicon.png", "sizes": "98x98", "type": "image/png", "purpose": "any" }],
+  "shortcuts": [{ "name": "Сканер вишивки", "url": "/recognizer.html?camera=1" }]
+}
